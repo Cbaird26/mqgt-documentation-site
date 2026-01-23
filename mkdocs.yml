@@ -1,0 +1,13 @@
+site_name: MQGT-SCF Documentation
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Methodology:
+    - Hypothesis Card: methodology/hypothesis_card.md
+    - Constraint Fusion: methodology/fusion.md
+  - Channels:
+    - Fifth-Force: channels/fifth_force.md
+    - Collider: channels/collider.md
+    - Precision: channels/precision.md
